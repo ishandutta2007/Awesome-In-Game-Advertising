@@ -1,6 +1,4 @@
-# Awesome-In-Game-Advertising
-
-# Similar Projects to In-Game Advertising Platforms
+# Awesome In-Game Advertising Platforms
 
 **In-Game Advertising Platforms** enable game developers and publishers to monetize through dynamic, brand-safe ad placements inside games (banners, interstitials, rewarded video, and especially immersive/3D in-game ads). Leading platforms include Anzu, Bidstack, AdInMo, Frameplay, Venatus, Admix, Unity Ads, AppLovin, Chartboost, and Google AdMob.
 
