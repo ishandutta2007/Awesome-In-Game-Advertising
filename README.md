@@ -22,14 +22,14 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 | **[Google AdMob](https://admob.google.com/)** | Major mobile and cross-platform ad network | Revenue Share | No limit | ~$305B (Alphabet Revenue) |
 | **[AppLovin](https://www.applovin.com/)** | Major mobile and cross-platform ad network | Revenue Share | No limit | ~$3.3B Revenue |
 | **[Unity Ads](https://unity.com/products/unity-ads)** | Major mobile and cross-platform ad network | Revenue Share | No limit | ~$2.2B Revenue |
+| **[Admix](https://admixplay.com/)** | In-game and interactive advertising platforms | Custom / Revenue Share | N/A | ~$450M (Acquisition/Exit Valuation) |
 | **[Chartboost](https://www.chartboost.com/)** | Major mobile and cross-platform ad network | Revenue Share | No limit | ~$250M (Acquisition) |
 | **[Anzu](https://anzu.io/)** | Dynamic, immersive, and brand-safe in-game advertising | Custom / Revenue Share | N/A | ~$120M Valuation |
 | **[Venatus](https://www.venatus.com/)** | In-game and interactive advertising platforms | Custom / Revenue Share | N/A | ~$30M Revenue |
 | **[Bidstack](https://www.bidstack.com/)** | Dynamic, immersive, and brand-safe in-game advertising | Custom / Revenue Share | N/A | ~$30M Valuation |
-| **[Admix](https://admixplay.com/)** | In-game and interactive advertising platforms | Custom / Revenue Share | N/A | Acquired |
-| **[Frameplay](https://frameplay.com/)** | Dynamic, immersive, and brand-safe in-game advertising | Custom / Revenue Share | N/A | Series A Startup |
-| **[AdInMo](https://adinmo.com/)** | Dynamic, immersive, and brand-safe in-game advertising | Custom / Revenue Share | N/A | Seed Startup |
-| **[Adsun](https://adsun.io/)** | Rewarded and interstitial advertising for games built as Telegram Mini Apps; not a native or 3D in-game SDK | Not specified | Not specified | Not disclosed |
+| **[Frameplay](https://frameplay.com/)** | Dynamic, immersive, and brand-safe in-game advertising | Custom / Revenue Share | N/A | ~$11.8M Revenue (~$8M Funding) |
+| **[AdInMo](https://adinmo.com/)** | Dynamic, immersive, and brand-safe in-game advertising | Custom / Revenue Share | N/A | ~$8.2M Funding (~$3.5M Revenue) |
+| **[Adsun](https://adsun.io/)** | Rewarded and interstitial advertising for games built as Telegram Mini Apps; not a native or 3D in-game SDK | Custom / Performance-based (CPM/CPC) | No free tier (min. campaign spend / payout threshold) | ~$1M - $2M Revenue (11-50 employees) |
 
 ## 🔓 Open-Source Software
 
