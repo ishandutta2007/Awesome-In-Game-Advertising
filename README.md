@@ -29,6 +29,7 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 | **[Admix](https://admixplay.com/)** | In-game and interactive advertising platforms | Custom / Revenue Share | N/A | Acquired |
 | **[Frameplay](https://frameplay.com/)** | Dynamic, immersive, and brand-safe in-game advertising | Custom / Revenue Share | N/A | Series A Startup |
 | **[AdInMo](https://adinmo.com/)** | Dynamic, immersive, and brand-safe in-game advertising | Custom / Revenue Share | N/A | Seed Startup |
+| **[Adsun](https://adsun.io/)** | Rewarded and interstitial advertising for games built as Telegram Mini Apps; not a native or 3D in-game SDK | Not specified | Not specified | Not disclosed |
 
 ## 🔓 Open-Source Software
 
